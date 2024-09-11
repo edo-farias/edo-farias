@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**edo-farias/edo-farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en [tu especialidad], y aquí te cuento un poco más sobre mí:
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en [tu proyecto actual].
+- 🌱 Aprendiendo sobre [tecnología o tema que estés aprendiendo].
+- 💬 Pregúntame sobre [temas en los que puedas ayudar].
+- 📫 Contáctame en [tu email o redes sociales].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+- Python
+- Django
+- PostgreSQL
+- JavaScript
+- Bootstrap
+
+## Proyectos Destacados
+- [Proyecto 1](enlace a tu proyecto)
+- [Proyecto 2](enlace a tu proyecto)
+
+## ¿Te gustaría colaborar?
+Si estás interesado en trabajar conmigo, no dudes en enviarme un mensaje.
