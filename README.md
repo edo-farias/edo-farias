@@ -20,6 +20,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me especi
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edo-farias&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edo-farias&layout=compact&theme=radical)
 
 ## ¿Te gustaría colaborar?
 Si estás interesado en trabajar conmigo, no dudes en enviarme un mensaje.
