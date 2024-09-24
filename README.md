@@ -12,7 +12,8 @@ Durante mi participación en el bootcamp de Desarrollo de Aplicaciones Full-Stac
 **Sitio web que simula una pasteleria**
 [OnlyFlans](https://github.com/edo-farias/onlyflans) 
 
-
+**Ejemplo de landing page**
+[Viajes Chile](https://edo-farias.github.io/prueba_viajesChile/) 
 
 ## Tecnologías y Herramientas
 
@@ -23,11 +24,6 @@ Durante mi participación en el bootcamp de Desarrollo de Aplicaciones Full-Stac
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-
-
-## Proyectos Destacados
-- [Proyecto 1](enlace a tu proyecto)
-- [Proyecto 2](enlace a tu proyecto)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=edo-farias&show_icons=true&theme=radical)
