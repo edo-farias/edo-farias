@@ -6,7 +6,8 @@ Soy un diseñador profesional que recientemente ha ampliado sus habilidades al d
 
 Durante mi participación en el bootcamp de Desarrollo de Aplicaciones Full-Stack Python, he trabajado en varios proyectos interesantes. Aquí te presento algunos de ellos:
 
-https://edo79.pythonanywhere.com/
+**Sitio web que simula una inmobiliaria**
+[Austral Propiedades](https://edo79.pythonanywhere.com/) 
 
 ## Tecnologías y Herramientas
 
